@@ -2,7 +2,7 @@
 
 3D heat transfer simulation with CUDA.
 
-Result, reference, analysis
+Result, reference, analysis and more details are all in [HeatTrans/README.md](HeatTrans/README.md)
 
 ## Environment
 
