@@ -4,6 +4,9 @@
 
 Result, reference, analysis and more details are all in [HeatTrans/README.md](HeatTrans/README.md)
 
+<div align=center><img src="HeatTrans/share/Animation.gif" width=800></div>
+
+
 ## Environment
 
 If you want to launch the demo in this repository, you need to install the following software and equips with a NVIDIA GPU.

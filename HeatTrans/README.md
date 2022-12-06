@@ -3,14 +3,23 @@
 
 ## Parallel accelerated requirements analysis
 
+<div align=center><img src="share/analysis.jpg" width=800></div>
+
 ## Heat Transfer Format
 
 $$
 \begin{array}{l} T _ { c u r r } ^ { i } = k T _ { p r e v } ^ { i } + ( t _ { v } \sum ( T _ { p r e v } ^ { j } - T _ { n b } ^ { j } ) + l T _ { p r e v } ^ { i } ) / ( N u m _ { n b } + 1 )  \end{array}
 $$
 
+The superscript $i$ and $j$ denote the position of the element of the three-dimensional model, $k \in[0,1]$ denotes the heat information of the current element which is not dissipated in each iteration, and the subscript $curr$ and $prev$ distinguish the current heat information from the previous heat information, $t_v$ denotes the heat conduction rate, $l \in[0,1]$ is the heat loss coefficient, $Num_{nb}$ denotes the number of neighbor nodes.
+
+## Environment
+
+<div align=center><img src="share/env.jpg" width=600></div>
+
 ## Result
 
+<div align=center><img src="share/res.jpg" width=400> <img src="share/bunny.jpg" width=400></div>
 
 ## Configure
 
