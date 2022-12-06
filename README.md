@@ -4,7 +4,7 @@
 
 Result, reference, analysis and more details are all in [HeatTrans/README.md](HeatTrans/README.md)
 
-<div align=center><img src="HeatTrans/share/Animation.gif" width=800></div>
+<div align=center><img src="HeatTrans/share/Animation.gif" width=600></div>
 
 
 ## Environment
